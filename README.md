@@ -18,12 +18,12 @@
 - <b><u>Solution for Loophole-4:</b></u>  An online dtabase will be maintained showing information of candidates such as criminal charges, net worth, previous experience, educational qualifications etc, which can help voters to choose their perfect candidate wisely.
 
 ## Technologies Used
--Azure Blockchain Service
--Raspberry pi 3 
--Django
--Other Rest APIs
+- Azure Blockchain Service
+- Raspberry pi 3 
+- Django
+- Other Rest APIs
 
-<Centre>ns in our views would enhance the Election process and make it more smooth, fun and secure. Ensuring we are not just mere puppets in the hands of few powerful Masters.</entre>
+<centre>These solutions in our views would enhance the Election process and make it more smooth, fun and secure. Ensuring we are not just mere puppets in the hands of few powerful Masters.</centre>
 
 
 
