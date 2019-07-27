@@ -15,7 +15,7 @@
 - <b><u>Solution for Loophole-1:</b></u>  After having such great sucess in creating a database linked with Adhaar, which can be used to automatically generate Voter Id card as soon as a citizen becomes eligible to vote, furtger the person can be informed and is Voter Id card sent to his doorsteps by which his physical verification can also be done.
 - <b><u>Solution for Loophole-2:</b></u>  Different stages in the process of casting vote will be treated as a block, and using Azure Blockchain service even if single  stage is disrupted, concerned authorities will be notified and the vote shall not be counted. By using IOT, voter's finger print is verified from the Adhaar database and a real time unique session for that voters starts which ends when the EVM button is pressed and all these verification and stages are hashed and protected using blockchain to assure that no one (not even corrupt election officers) can breach voting process.
 - <b><u>Solution for Loophole-3:</b></u>  Before giving Voter Slip and creating voters list Voters list of polling booths, a voter can fill his preference location for voting (Default location for all voters will be given nearest to their address meintioned in Voter Id Card).
-- <b><u>Solution for Loophole-4:</b></u>  An online dtabase will be maintained showing information of candidates such as criminal charges, net worth, previous experience, educational qualifications etc, which can help voters to choose their perfect candidate wisely.
+- <b><u>Solution for Loophole-4:</b></u>  An online database will be maintained showing information of candidates such as criminal charges, net worth, previous experience, educational qualifications etc, which can help voters to choose their perfect candidate wisely.
 
 ## Technologies Used
 - Azure Blockchain Service
@@ -24,7 +24,7 @@
 - Other Rest APIs
 <hr>
 
-<p align="centre">These solutions in our views would enhance the Election process and make it more smooth, fun and secure. Ensuring we are not just mere puppets in the hands of few powerful Masters.</p>
+<p align="centre">These solutions in our views would make elections more smooth, fun and secure. Ensuring we are not just mere puppets in the hands of few powerful Masters.</p>
 
 
 
