@@ -22,8 +22,9 @@
 - Raspberry pi 3 
 - Django
 - Other Rest APIs
+<hr>
 
-<centre>These solutions in our views would enhance the Election process and make it more smooth, fun and secure. Ensuring we are not just mere puppets in the hands of few powerful Masters.</centre>
+<p align="centre">These solutions in our views would enhance the Election process and make it more smooth, fun and secure. Ensuring we are not just mere puppets in the hands of few powerful Masters.</p>
 
 
 
